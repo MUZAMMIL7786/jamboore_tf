@@ -20,13 +20,11 @@ Developed a machine learning model on Jamboree's ed-tech platform to predict Ivy
   - Data Exploration
   - Data Transformation
   - Data Analysis
-  - Model Building (if applicable)
   - Interpretation of Results
   - Visualization and Reporting
   - Validation and Testing
   - Documentation
   - Conclusion and Recommendations
-  - Presentation (Optional)
   - Review and Iteration
 
  
